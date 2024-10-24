@@ -1,5 +1,4 @@
 # 讨厌被打断心流, 所以我做了这款番茄钟
-÷
 我在实践番茄钟的时候，没有感到效能提升, 还总是心流打断，感觉沮丧。我做了这个app来解决这些问题👇🏼
 [Zendoro](https://apps.apple.com/cn/app/zendoro-%E7%A6%85%E9%92%9F/id6504215286): 一个键盘党喜爱的支持flowtime技术的全平台番茄钟。
 ## 🥰Aha Feature
