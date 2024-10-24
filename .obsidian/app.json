@@ -1,7 +1,8 @@
 {
   "promptDelete": false,
-  "attachmentFolderPath": "@attatch",
+  "attachmentFolderPath": "attatch",
   "newFileLocation": "current",
   "alwaysUpdateLinks": true,
-  "useMarkdownLinks": true
+  "useMarkdownLinks": true,
+  "newLinkFormat": "absolute"
 }
