@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024年10月24日/微信.md",
+                "file": "2024年10月24日/V2ex.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "微信 的反向链接列表"
+              "title": "V2ex 的反向链接列表"
             }
           },
           {
@@ -149,8 +149,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,14 +165,14 @@
   },
   "active": "fb886020c2b73a26",
   "lastOpenFiles": [
-    "2024年10月24日/微信.md",
     "attatch/Pasted_image_20241024151003.png",
+    "attatch/Kapture 2024-10-24 at 15.13.48.gif",
+    "attatch/Kapture 2024-10-24 at 13.36.49.gif",
+    "2024年10月24日/微信.md",
     "attatch/Pasted_image_20241024134255.png",
     "2024年10月24日/V2ex.md",
     "@attatch/Pasted.md",
     "@attatch",
-    "attatch/Kapture 2024-10-24 at 15.13.48.gif",
-    "attatch/Kapture 2024-10-24 at 13.36.49.gif",
     "Readme.md",
     "attatch",
     "Kapture 2024-10-24 at 13.36.49 1.gif",

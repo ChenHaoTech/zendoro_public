@@ -5,22 +5,26 @@
 ## 🥰Aha Feature
 - **窗口专注记录回看** 我总是不知不觉跳进了一个兔子洞, 漫无目的刷网页视频。我需要在我专注结束的时候回顾我的
 	- 👉 我做了窗口回看功能
-		![Pasted_image_20241024151003|400](attatch/Pasted_image_20241024151003.png)
+		![Pasted_image_20241024151003.png](https://s2.loli.net/2024/10/24/uQSevsgl76WqKNM.png)
+
 	  
 
 - **极致快捷键支持**  我不要总是鼠标点点点, 我超级超级喜爱快捷键， 市面上左右的番茄钟快捷键支持我都不满意
 	- 👉 我让我的番茄钟支持 **CMD K** 以及其他很多的快捷键!
-		![](attatch/Kapture%202024-10-24%20at%2013.36.49.gif)
+		![](https://s2.loli.net/2024/10/24/MrTAPf5lvqsQatm.gif)
+
+
 - **flowtime技术**  我不要被番茄钟打断心流，请在我想休息的时候开始休息, 还想专注的时候继续专注
 	- 👉 我采用了[Flowtime 技术](https://zapier.com/blog/flowtime-technique/)来安排我的休息: 休息时间 = 专注时间/5  (这里的休息因子 5 因人而异) 
 
 - **可组合白噪音**  我不要被在优先的音频里选择有限的体验。 一年前在我看到 [ambiphone](https://ambiph.one/) 这个产品后,  我知道我如果我要做白噪音功能一定要带上它。
 	- 👉 我提供多种白噪声可供挑选 & 自定义混合白噪音。 (自定义链接功能很快上线， 支持 youtube、bilibili 等链接)
-	  ![[attatch/Pasted_image_20241024134255.png|400]]
+	  ![Pasted_image_20241024134255.png](https://s2.loli.net/2024/10/24/26krxAQS7yUHpuc.png)
 
 - **番茄时间继承** 当前手上任务做完了,还剩 10 分钟咋办?  
 	- 👉 我一个 `cmd+alt+→` 将剩下的时间加到下一个任务上。等到当前的 25min 用完了我再休息
-		![](attatch/Kapture%202024-10-24%20at%2015.13.48.gif)
+		![Kapture 2024-10-24 at 15.13.48.gif](https://s2.loli.net/2024/10/24/MrTAPf5lvqsQatm.gif)
+
 
 - **全平台番茄钟**
 	- 👉 支持 web、安卓、ios、windows(🚧) --- 基于flutter实现
