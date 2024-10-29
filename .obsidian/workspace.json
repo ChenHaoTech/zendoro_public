@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024年10月24日/V2ex.md",
+                "file": "work-logs/2024-10-29.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "V2ex"
+              "title": "2024-10-29"
+            }
+          },
+          {
+            "id": "9b89238c7d8e6ef2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "templater/X-WIP.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "X-WIP"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -52,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "情绪化",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "0fa4314241b19308",
@@ -94,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024年10月24日/V2ex.md",
+                "file": "2024年10月25日/2024年10月25日.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "V2ex 的反向链接列表"
+              "title": "2024年10月25日 的反向链接列表"
             }
           },
           {
@@ -162,24 +176,46 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "obsidian-git:Open Git source control": false,
-      "wechat-public-platform:发布到草稿箱": false
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "fb886020c2b73a26",
+  "active": "9b89238c7d8e6ef2",
   "lastOpenFiles": [
-    "attatch/Pasted_image_20241024151003.png",
-    "attatch/Kapture 2024-10-24 at 15.13.48.gif",
+    "work-logs/2024-10-29.md",
+    "work-logs/2024年10月25日/2024年10月25日.md",
+    "work-logs/2024年10月24日/X.md",
+    "Readme.md",
+    "Review.md",
+    "经验积累.md",
+    "SOP/发布SOP.md",
+    "templater/X-WIP.md",
+    "templater",
+    "attatch/Pasted image 20241029200607.png",
+    "Install.md",
+    "work-logs",
+    "SOP",
+    "work-logs/2024年10月24日/V2ex.md",
+    "work-logs/2024年10月24日/Plan.md",
+    "work-logs/2024年10月24日/2024年10月24日.md",
+    "work-logs/2024年10月24日/微信.md",
+    "attatch/Pasted image 20241025181636.png",
+    "attatch/Pasted image 20241025181633.png",
+    "work-logs/2024年10月25日",
+    "2024年10月24日/Do/Do.md",
+    "2024年10月24日/Plan&Check.md",
+    "2024年10月24日/Review.md",
+    "2024年10月24日/未命名",
+    "2024年10月24日/Do",
+    "2024年10月24日/Plan",
+    "Plan",
+    "Do",
     "attatch/Kapture 2024-10-24 at 13.36.49.gif",
-    "2024年10月24日/微信.md",
+    "attatch/Kapture 2024-10-24 at 15.13.48.gif",
+    "attatch/Pasted_image_20241024151003.png",
     "attatch/Pasted_image_20241024134255.png",
-    "2024年10月24日/V2ex.md",
     "@attatch/Pasted.md",
     "@attatch",
-    "Readme.md",
-    "attatch",
     "Kapture 2024-10-24 at 13.36.49 1.gif",
-    "Kapture 2024-10-24 at 13.36.49.gif",
-    "未命名.md",
-    "2024年10月24日"
+    "Kapture 2024-10-24 at 13.36.49.gif"
   ]
 }

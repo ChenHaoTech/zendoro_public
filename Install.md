@@ -1,0 +1,10 @@
+- Android
+    - [https://github.com/ChenHaoTech/ZenDoro/releases](https://github.com/ChenHaoTech/ZenDoro/releases)
+- IOS
+    - [https://apps.apple.com/cn/app/zendoro-%E7%A6%85%E9%92%9F/id6504215286?mt=12](https://apps.apple.com/cn/app/zendoro-%E7%A6%85%E9%92%9F/id6504215286?mt=12)
+- Mac
+    - [https://apps.apple.com/cn/app/zendoro-%E7%A6%85%E9%92%9F/id6504215286?mt=12](https://apps.apple.com/cn/app/zendoro-%E7%A6%85%E9%92%9F/id6504215286?mt=12)
+- Windows
+    - 🚧
+- Web(beta)
+    - [https://zendoro.vercel.app/](https://zendoro.vercel.app/)

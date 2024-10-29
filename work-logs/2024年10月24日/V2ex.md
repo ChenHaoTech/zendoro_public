@@ -1,5 +1,5 @@
 # 讨厌被打断心流, 所以我做了这款番茄钟
-我在实践番茄钟的时候，没有感到效能提升, 还总是心流打断，感觉沮丧。我做了这个app来解决这些问题👇🏼
+我在实践番茄钟的时候，没有感到效能提升, 还总是心流打断，感觉沮丧。我做了这个app来解决这些问题👇🏼  
 [Zendoro](https://apps.apple.com/cn/app/zendoro-%E7%A6%85%E9%92%9F/id6504215286): 一个键盘党喜爱的支持flowtime技术的全平台番茄钟。
 ## 🥰Aha Feature
 - **窗口专注记录回看** 我总是不知不觉跳进了一个兔子洞, 漫无目的刷网页视频。我需要在我专注结束的时候回顾我的
@@ -27,7 +27,7 @@
 
 - **全平台番茄钟**
 	- 👉 支持 web、安卓、ios、windows(🚧) --- 基于flutter实现
-		- [Zendoro Install](https://t2bj3wxiaa.feishu.cn/wiki/EP6IwrQbUiXlmhk8JqCcBIrgnVd?from=from_copylink)[https://t2bj3wxiaa.feishu.cn/wiki/HhL9wbQd6iqTGOkOpMkcg68bnTh](https://t2bj3wxiaa.feishu.cn/wiki/HhL9wbQd6iqTGOkOpMkcg68bnTh)
+		- [Zendoro下载地址](https://t2bj3wxiaa.feishu.cn/wiki/EP6IwrQbUiXlmhk8JqCcBIrgnVd?from=from_copylink)
 ### 其他亮点
 - 专注结束时、休息时窗口置顶
 - 🏷️支持任务携带标签
@@ -35,7 +35,7 @@
 - 😢根据情绪反馈 统计时间占比
 
 ## 😘有钱的捧个钱场,没钱的捧个人场
- - 加入内测群, 成为股东爸爸👉
+ - 加入内测群, 成为股东爸爸👉 [🚧内测群🚧](https://qm.qq.com/q/XOzXFUdjmE)
  - 促销码:
 	 - FHFWPTNK4F6F
 	- YKLPNNK4LNFH
