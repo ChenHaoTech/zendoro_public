@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5da22284ddd22a92",
+        "id": "95a6c034b63d6096",
         "type": "tabs",
         "children": [
           {
-            "id": "fb886020c2b73a26",
+            "id": "6ddd2faedc91d306",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -73,7 +73,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "0fa4314241b19308",
@@ -169,7 +170,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fb886020c2b73a26",
+  "active": "6ddd2faedc91d306",
   "lastOpenFiles": [
     "work-logs/2024-10-31.md",
     "work-logs/2024-10-30.md",
