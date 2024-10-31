@@ -13,7 +13,7 @@
 
 ---
 %%使用 简单、常用、朴实的词汇, 修改语句更真诚互利、更情绪化+观点鲜明, 内容要简短%%
-Today:
+Me Today :😬,
 This is Day 1️⃣ 2️⃣ <% tp. file.cursor()%> of Zendoro! 💪
 
 🚧Today's Focus:
