@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "work-logs/2024-11-01.md",
+                "file": "templater/X-WIP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-11-01"
+              "title": "X-WIP"
             }
           }
         ]
@@ -176,10 +176,10 @@
   },
   "active": "6ddd2faedc91d306",
   "lastOpenFiles": [
-    "templater/X-WIP.md",
     "work-logs/2024-11-01.md",
     "work-logs/2024-10-31.md",
     "work-logs/2024-10-30.md",
+    "templater/X-WIP.md",
     "work-logs/2024-10-29.md",
     "work-logs/2024年10月25日/2024年10月25日.md",
     "work-logs/2024年10月24日/X.md",
